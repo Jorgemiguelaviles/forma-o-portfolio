@@ -1,0 +1,15 @@
+.principal{
+  font-family: 'Itim', cursive;
+font-family: 'Share Tech', sans-serif;
+  background-image:url(../../img/Tec.jpeg) ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+         display:flex ;
+  flex-wrap: wrap;
+                 padding:10%;
+         font-size: 2rem;
+         color:white;
+               
+           
+          }

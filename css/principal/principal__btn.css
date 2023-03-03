@@ -1,0 +1,6 @@
+.principal__btn{
+  height:60px;
+    transition:1s;}
+
+.principal__btn:hover{background:white;
+          border-radius: 2px;}
